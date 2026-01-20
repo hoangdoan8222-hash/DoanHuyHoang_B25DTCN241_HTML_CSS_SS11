@@ -5,7 +5,7 @@
   font-family: Arial, sans-serif;
 }
 
-/* HEADER */
+
 header {
   background: white;
   display: flex;
@@ -76,7 +76,7 @@ nav a {
   cursor: pointer;
 }
 
-/* FEATURE */
+
 .feature {
   padding: 60px 10%;
   background: #fff7f0;
@@ -118,7 +118,7 @@ nav a {
   font-weight: bold;
 }
 
-/* MENU */
+
 .menu {
   padding: 60px 10%;
   text-align: center;
@@ -143,7 +143,7 @@ nav a {
   box-shadow: 0 3px 6px rgba(0,0,0,0.1);
 }
 
-/* FOOTER */
+
 footer {
   background: #2b2220;
   color: white;
@@ -161,3 +161,4 @@ footer {
   font-size: 14px;
   line-height: 1.6;
 }
+
